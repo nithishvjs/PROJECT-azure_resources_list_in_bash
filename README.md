@@ -8,14 +8,14 @@ The script helps DevOps engineers and cloud administrators to quickly query and 
 
 ## Supported Azure Services
 
-*)Resource Groups (rg)
-*)Virtual Machines (vm)
-*)Azure Kubernetes Service (aks)
-*)Azure Container Registry (acr)
-*)Storage Accounts (storageaccount)
-*)Virtual Networks (vnet)
-*)Function Apps (function)
-*)Network Security Groups (nsg)
+Resource Groups (rg)
+ | Virtual Machines (vm)
+ | Azure Kubernetes Service (aks)
+ | Azure Container Registry (acr)
+ | Storage Accounts (storageaccount)
+ | Virtual Networks (vnet)
+ | Function Apps (function)
+ | Network Security Groups (nsg)
 
 User-Friendly Output: Uses az CLI's query feature to format the results in a human-readable table
 
